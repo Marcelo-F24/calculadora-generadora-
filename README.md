@@ -28,4 +28,4 @@ se realizo el algoritmo multiplicador constante despues sacar un promedio  para 
 
 
 # Fuente
-codigo propio + Chatgpt
+
