@@ -1,10 +1,9 @@
-# calculadora-generadora-
+# calculadora-generadora
 calculadora generadora de numeros pseudoaleatorios y pruebas
 # Requisitos y pasos de instalación/ejecución.
 # Pasos de instalación
   Instalar Python
   Descarga desde python.org
-  Asegúrate de marcar la opción “Add Python to PATH” durante la instalación
 # modulos de python necesarios:
   tkinter (incluido en python)
   scipy (para pruebas estadisticas)
@@ -13,19 +12,27 @@ calculadora generadora de numeros pseudoaleatorios y pruebas
 
 # Capturas de pantalla de la GUI. 
 
-<img width="807" height="533" alt="image" src="https://github.com/user-attachments/assets/149b5255-af58-41ed-a309-0aad10e72f6e" />
+<img width="408" height="339" alt="image" src="https://github.com/user-attachments/assets/e4e7ec1c-69e4-49a4-9c44-34a5fa58dd10" />
 
-<img width="505" height="331" alt="image" src="https://github.com/user-attachments/assets/d96dbb0a-37e6-4a2b-bf08-42d9762dfad8" />
+<img width="906" height="639" alt="image" src="https://github.com/user-attachments/assets/f370f9f3-c633-48b9-85f4-d9fb56dfe04f" />
 
-<img width="554" height="382" alt="image" src="https://github.com/user-attachments/assets/62aac84c-41ba-48a0-abe6-aa02de618c42" />
+<img width="507" height="337" alt="image" src="https://github.com/user-attachments/assets/c9aa8d28-ac57-448c-b88f-decc43139af2" />
 
 # Bitácora de avances por clase.
-clase 20/08
+20/08/25
 se realizo un ejercicio con el algoritmo de cuatro de medias, generando 5 numeros ademas de un numero semilla. tambien se realizo el algoritmo de productos medios con dos numeros semillas, se realizo tablas excel que realicen dichos algoritmos
 
-clase 27/08
+<img width="428" height="272" alt="image" src="https://github.com/user-attachments/assets/7cf40b0f-59f2-4cd6-a198-ad725e09234c" />
+<img width="504" height="177" alt="image" src="https://github.com/user-attachments/assets/edb716a7-643d-41d8-aa94-e4b53991dc50" />
+
+27/08/25
 se realizo el algoritmo multiplicador constante despues sacar un promedio  para la prueba de medias  con el nivel de confianza y la formula para el limite superior e inferior
 
+<img width="499" height="151" alt="image" src="https://github.com/user-attachments/assets/22f0f5e5-96b7-4307-8b2d-26efa8aaee17" />
+<img width="178" height="130" alt="image" src="https://github.com/user-attachments/assets/0d12cfef-c681-4894-8cdd-63d120146359" />
 
+03/09/25
+realizacion de prueba de varianza con tabla chi-cuadrada ademas de sacar los limites superiores e inferios, tambien se realizo la prueba de uniformidad con numeros pseudoaleatorios 
 # Fuente
-
+https://www.youtube.com/@christianmillan1802
+https://chatgpt.com
